@@ -37,3 +37,11 @@ print("1. Log base 2 value is: " + str(ma.log2(n)))
 print("2. Cosine value is: " + str(ma.cos(n)))
 print("3. e to the power value is: " + str(ma.exp(n)))
 
+#Relational Operators
+num = 20
+print(num > 20) #Greater than
+print(num < 20) #Less than
+print(num >= 20) #Greater than or equal to
+print(num <= 20) #Less than or Equal to
+print(num == 25) #Equal to
+print(num != 25) #Not equal to
